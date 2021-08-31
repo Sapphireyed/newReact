@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/newReact/static/css/main.9ecc70da.chunk.css",
+    "main.js": "/github.io/newReact/static/js/main.fd7a7729.chunk.js",
+    "main.js.map": "/github.io/newReact/static/js/main.fd7a7729.chunk.js.map",
+    "runtime-main.js": "/github.io/newReact/static/js/runtime-main.f0262dca.js",
+    "runtime-main.js.map": "/github.io/newReact/static/js/runtime-main.f0262dca.js.map",
+    "static/js/2.bcbfce16.chunk.js": "/github.io/newReact/static/js/2.bcbfce16.chunk.js",
+    "static/js/2.bcbfce16.chunk.js.map": "/github.io/newReact/static/js/2.bcbfce16.chunk.js.map",
+    "static/js/3.9c5df6ad.chunk.js": "/github.io/newReact/static/js/3.9c5df6ad.chunk.js",
+    "static/js/3.9c5df6ad.chunk.js.map": "/github.io/newReact/static/js/3.9c5df6ad.chunk.js.map",
+    "index.html": "/github.io/newReact/index.html",
+    "static/css/main.9ecc70da.chunk.css.map": "/github.io/newReact/static/css/main.9ecc70da.chunk.css.map",
+    "static/js/2.bcbfce16.chunk.js.LICENSE.txt": "/github.io/newReact/static/js/2.bcbfce16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0262dca.js",
+    "static/js/2.bcbfce16.chunk.js",
+    "static/css/main.9ecc70da.chunk.css",
+    "static/js/main.fd7a7729.chunk.js"
+  ]
+}
